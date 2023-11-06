@@ -10,6 +10,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Trollsorous?style=social)](https://twitter.com/intent/follow?screen_name=Trollsorous) &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/Siddikulus?label=Follow&style=social)](https://github.com/Siddikulus/?tab=follow) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-siddharthmathur20@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:siddharthmathur20@gmail.com)](mailto:email@anuragsingh.dev) &nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Siddikulus&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
 
