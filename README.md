@@ -1,9 +1,10 @@
 <div id="header" align="center">
-  <img src="https://github.com/Siddikulus/Siddikulus/blob/main/Itachi-infinite.gif" alt="👋 Hi there! I'm Siddharth Mathur" title="👋 Hi there! I'm Siddharth Mathur width="400/>
+  <img src="https://github.com/Siddikulus/Siddikulus/blob/main/Itachi-infinite.gif" alt="👋 Hi there! I'm Siddharth Mathur" title="👋 Hi there! I'm Siddharth Mathur" width = "750"/>
 </div>
 
 
-### Hi there 👋
+[![Twitter Follow](https://img.shields.io/twitter/follow/Trollsorous?style=social)](https://twitter.com/intent/follow?screen_name=Trollsorous)
+
 
 <!--
 **Siddikulus/Siddikulus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
