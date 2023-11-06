@@ -1,4 +1,6 @@
-[<img src="https://github.com/Siddikulus/Siddikulus/blob/main/Itachi-infinite.gif" alt="👋 Hi there! I'm Siddharth Mathur" title="👋 Hi there! I'm Siddharth Mathur"/>](https://raymond.li/)
+<div id="header" align="center">
+  <img src="https://github.com/Siddikulus/Siddikulus/blob/main/Itachi-infinite.gif" alt="👋 Hi there! I'm Siddharth Mathur" title="👋 Hi there! I'm Siddharth Mathur width="400/>
+</div>
 
 
 ### Hi there 👋
