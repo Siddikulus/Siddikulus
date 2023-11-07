@@ -40,6 +40,8 @@ Here are some ideas to get you started:
   <img alt="Computer Vision" src="https://img.shields.io/badge/-Computer Vision-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-E34F26?style=flat-square&logo=django&logoColor=white" />
   <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-F5C300?style=flat-square&logo=keras&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-FB542B?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-EC4A3F?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-F9A03C?style=flat-square&logo=sqlite&logoColor=white" />
