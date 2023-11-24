@@ -3,6 +3,14 @@
 </div>
 
 <br>
+
+<div id="header" align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&size=30&pause=700&color=F77676&center=true&vCenter=true&random=false&width=434&lines=Experienced+Data+Scientist;Python+Developer;Gamer;Naruto+Fanatic)](https://git.io/typing-svg)
+  
+</div>
+
+<br>
 <div id="header" align="center">
   
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fonehotencoder_97&logo=leetcode&logoColor=yellow)](https://leetcode.com/ashleymavericks/) &nbsp;
