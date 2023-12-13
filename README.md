@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 -->
 <br>
 
-## Skillset
+## 📚 Skillset
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-5F259F?style=flat-square&logo=python&logoColor=white" />
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## Hey there 👋
+## 👋 Hey there 
 
 ```python
 #!/usr/bin/python
