@@ -7,7 +7,7 @@
 
 <div id="header" align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&size=30&pause=700&color=F77676&center=true&vCenter=true&random=false&width=434&lines=Data+Scientist;Python+Developer;Naruto+Fanatic)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&size=30&pause=700&color=E8E8E8&center=true&vCenter=true&random=false&width=434&lines=Data+Scientist;Python+Developer;Naruto+Fanatic)](https://git.io/typing-svg)
   
 </div>
 
