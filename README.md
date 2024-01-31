@@ -7,7 +7,7 @@
 
 <div id="header" align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&size=30&pause=700&color=DC0032&center=true&vCenter=true&random=false&width=434&lines=Data+Scientist;Python+Developer;Naruto+Fanatic)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&size=30&pause=700&color=EC4A3F&center=true&vCenter=true&random=false&width=434&lines=Data+Scientist;Python+Developer;Naruto+Fanatic)](https://git.io/typing-svg)
   
 </div>
 
@@ -106,4 +106,8 @@ me = DataScientist()
 me.about_me()
 me.say_hi()
 ```
-
+## 🎊 Leetcode Badges
+<div id="header" align="center">
+  <img src="https://github.com/Siddikulus/Siddikulus/blob/main/50_Days.gif" alt="50 Days Badge" title="50 Days Badge"/>
+  <img src="https://github.com/Siddikulus/Siddikulus/blob/main/Jan_DC.gif" alt="January 24 Daily Challenge" title="January 24 Daily Challenge"/>
+</div>
