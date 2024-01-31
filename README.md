@@ -1,7 +1,10 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://github.com/Siddikulus/Siddikulus/blob/main/Rinnegan.gif" alt="👋 Hi there! I'm Siddharth Mathur" title="👋 Hi there! I'm Siddharth Mathur" width ="600" height="180" />
+</div> -->
+<div id="header" align="center">
+  <img src="https://github.com/Siddikulus/Siddikulus/blob/main/50_Days.gif" alt="50 Days Badge" title="Leetcode 50 Days Badge" width = "100" height = "100"/>
+  <img src="https://github.com/Siddikulus/Siddikulus/blob/main/Jan_DC.gif" alt="January 24 Daily Challenge" title="Leetcode January Badge" width = "100" height = "100"/>
 </div>
-
 
 <br>
 
@@ -106,8 +109,4 @@ me = DataScientist()
 me.about_me()
 me.say_hi()
 ```
-## 🎊 Leetcode Badges
-<div id="header" align="center">
-  <img src="https://github.com/Siddikulus/Siddikulus/blob/main/50_Days.gif" alt="50 Days Badge" title="50 Days Badge"/>
-  <img src="https://github.com/Siddikulus/Siddikulus/blob/main/Jan_DC.gif" alt="January 24 Daily Challenge" title="January 24 Daily Challenge"/>
-</div>
+
