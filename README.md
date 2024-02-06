@@ -2,8 +2,12 @@
   <img src="https://github.com/Siddikulus/Siddikulus/blob/main/Rinnegan.gif" alt="👋 Hi there! I'm Siddharth Mathur" title="👋 Hi there! I'm Siddharth Mathur" width ="600" height="180" />
 </div> -->
 <div id="header" align="center">
-  <img src="https://github.com/Siddikulus/Siddikulus/blob/main/50_Days.gif" alt="50 Days Badge" title="Leetcode 50 Days Badge" width = "100" height = "100"/>
+  <a href = "https://leetcode.com/onehotencoder_97/">
+    <img src="https://github.com/Siddikulus/Siddikulus/blob/main/50_Days.gif" alt="50 Days Badge" title="Leetcode 50 Days Badge" width = "100" height = "100"/>
+  </a>
+  <a href = "https://leetcode.com/onehotencoder_97/">
   <img src="https://github.com/Siddikulus/Siddikulus/blob/main/Jan_DC.gif" alt="January 24 Daily Challenge" title="Leetcode January Badge" width = "100" height = "100"/>
+  </a>
 </div>
 
 <br>
