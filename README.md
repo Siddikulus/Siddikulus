@@ -107,7 +107,6 @@ class DataScientist:
             🔭 Also into research. I focus my research efforts on enhancing safety and healthcare through the
                application of computer vision and deep learning technologies.
             💬 Come brainstorm with me over tech, algorithms, career, movies, games, anime and music.
-            🤞 Please hire me if you have the power to g𝚎𝚝 me 𝚊 M𝙰𝙰𝙽𝙶𝙼+ 𝚒𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙.
             ⚡ "I'm not gonna give up. Once I've found something I want to do, I do it. That's my ninja way!" - Naruto Uzumaki
             ''')
 
