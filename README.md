@@ -14,6 +14,9 @@
   <a href = "https://leetcode.com/onehotencoder_97/">
   <img src="https://github.com/Siddikulus/Siddikulus/blob/main/Feb_DC.gif" alt="February 24 Daily Challenge" title="Leetcode February Badge" width = "100" height = "100"/>
   </a>
+  <a href = "https://leetcode.com/onehotencoder_97/">
+  <img src="https://github.com/Siddikulus/Siddikulus/blob/main/Mar_DC.gif" alt="March 24 Daily Challenge" title="Leetcode March Badge" width = "100" height = "100"/>
+  </a>
 </div>
 
 <br>
